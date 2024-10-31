@@ -1,3 +1,9 @@
+<p float="left">
+  <img src="https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780" width="400" height="100" title="BS_Logo">
+    <div></div>
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Booking-Logo.png" width="400" height="200" title="Booking_Logo">
+</p>
+
 # Booking.com - Code School - App - Lesson 2 - XCUITest
 
 ## Introduction
